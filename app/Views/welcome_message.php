@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title><?=lang('Welcome to CodeIgniter')?></title>
+		<title><?=lang('Welcome to CodeI4')?></title>
 
 		<link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
 	</head>
